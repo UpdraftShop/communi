@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b72079a-dc34-4c39-a775-1ce765ba5842" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/MeshBoneMaster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/UpdraftShopIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/install/menu_updraftshop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/usage/open_tool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/md/install.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/md/usage.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WTSmYkbJfBBxWiqFdF0TaJrUEi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\kedar\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\kedar\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\kedar\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b72079a-dc34-4c39-a775-1ce765ba5842" name="Changes" comment="" />
+      <created>1696755237237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696755237237</updated>
+      <workItem from="1696755238094" duration="3893000" />
+      <workItem from="1696777626478" duration="2985000" />
+      <workItem from="1696848715705" duration="1657000" />
+      <workItem from="1696857247871" duration="366000" />
+      <workItem from="1696857624001" duration="17935000" />
+      <workItem from="1697265874501" duration="43611000" />
+      <workItem from="1697859872107" duration="5347000" />
+      <workItem from="1697959616125" duration="10617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
